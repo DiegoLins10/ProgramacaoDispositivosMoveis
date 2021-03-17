@@ -15,7 +15,7 @@ fun main(){
     var nota4= readLine().toString().toDouble()
 
     val media = (nota1+nota2+nota3+nota4)/4
-    if(media in 7..10)
+    if(media in 7.0..10.0)
         println("aprovado sua medía é %.2f".format(media))
     else
     println("Aluno reprovado sua média é %.2f".format(media))

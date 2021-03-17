@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f7f116-37ac-4a3a-86ab-ea662d3868d3" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="68f7f116-37ac-4a3a-86ab-ea662d3868d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Carro/Carro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carro/src/Carros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carro/src/Ferrari.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carro/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/kot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/classe private.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/construtor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/datas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/dia.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/lamb prog funcional.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/lambda2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kot/src/pc.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaNota2/src/MediaAluno.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ListaNota2/src/MediaAluno.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,40 +27,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ListaNota2/src/ordemCrecente.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ListaNota2/src/Lojinha.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ListaNota2/src/fatorial.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -53,6 +34,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -94,6 +78,10 @@
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1psw8fnMd719cjjQZidg9sTsPHG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -148,7 +136,12 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
@@ -156,19 +149,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Kotlin.LojinhaKt">
+  <component name="RunManager" selected="Application._4funcKt">
     <configuration name="FatorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="ListaNota2" />
       <option name="VM_PARAMETERS" />
@@ -221,7 +202,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4funcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_4funcKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <module name="ListaNota2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -234,16 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.LojinhaKt" />
-        <item itemvalue="Kotlin._4funcKt" />
-        <item itemvalue="Kotlin.GrausKt" />
-        <item itemvalue="Kotlin.FatorialKt" />
-        <item itemvalue="Kotlin.SomaCemKt" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -297,6 +270,20 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
