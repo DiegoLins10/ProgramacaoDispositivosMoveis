@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f7f116-37ac-4a3a-86ab-ea662d3868d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Carro/Carro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Carro/src/Carros.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Carro/src/Ferrari.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Carro/src/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/kot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/classe private.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/construtor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/datas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/dia.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/lamb prog funcional.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/lambda2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kot/src/pc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota/ListaNota4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota4/mediavetor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota4/vetor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota4/vetorAB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota4/vetorFatorial.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaNota2/src/MediaAluno.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ListaNota2/src/MediaAluno.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carro/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Carro/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/META-INF/hello.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/META-INF/hello.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -149,54 +144,67 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application._4funcKt">
-    <configuration name="FatorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="ListaNota2" />
+  <component name="RunManager" selected="Application.VetorFatorialKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FatorialKt" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrausKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="ListaNota2" />
+    <configuration name="MediavetorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GrausKt" />
+      <option name="MAIN_CLASS_NAME" value="MediavetorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LojinhaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="ListaNota2" />
+    <configuration name="VetorABKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="LojinhaKt" />
+      <option name="MAIN_CLASS_NAME" value="VetorABKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomaCemKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="ListaNota" />
+    <configuration name="VetorFatorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SomaCemKt" />
+      <option name="MAIN_CLASS_NAME" value="VetorFatorialKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VetorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VetorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,6 +223,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VetorFatorialKt" />
+        <item itemvalue="Application.MediavetorKt" />
+        <item itemvalue="Application.VetorABKt" />
+        <item itemvalue="Application.VetorKt" />
+        <item itemvalue="Application.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -228,6 +245,21 @@
       <option name="presentableId" value="Default" />
       <updated>1612989592696</updated>
     </task>
+    <task id="LOCAL-00001" summary="17/03 classes/lambdas">
+      <created>1615985382313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615985382313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="17/03 classes/lambdas">
+      <created>1615985417111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615985417111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -281,9 +313,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="17/03 classes/lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="17/03 classes/lambdas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -311,6 +346,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/ListaNota4/vetor.kt</url>
+          <line>6</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/ListaNota4/vetorAB.kt</url>
+          <line>6</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
