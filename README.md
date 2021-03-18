@@ -1,6 +1,6 @@
 ## Projeto - Treinando logica de programação usando Kotlin
 ### Centro Paula Souza - Fatec Ferraz - Curso de Análise e Desenvolvimento de Sistemas
-### Disciplina – Desenvolvimento de sistemas – Prof. Marcos Vasconcelos
+### Disciplina – Programação para dispositivos moveis – Prof. Marcos Vasconcelos
 
 - Diego Fernandes Lins
 
