@@ -5,5 +5,5 @@
 - Diego Fernandes Lins
 
 ### Objetivo
-Resolver varios exercicios para entender a sintaxe e a logica da linguagem kotlin para desenvolvimento de dispositivos moveis com o objetivo de se preparar para usar o android studio.
+Resolver varios exercicios para entender a sintaxe e a logica da linguagem kotlin para a materia de desenvolvimento de dispositivos moveis com o objetivo de se preparar para usar o android studio.
 
