@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f7f116-37ac-4a3a-86ab-ea662d3868d3" name="Default Changelist" comment="18/03 exercicios nota4">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__6_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dadosFuncionario/dadosFuncionario.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dadosFuncionario/src/Funcionario.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dadosFuncionario/src/main.kt" afterDir="false" />
+    <list default="true" id="68f7f116-37ac-4a3a-86ab-ea662d3868d3" name="Default Changelist" comment="24/03 Classe POO kot funcionario">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__7_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota5/ListaNota5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota5/src/Filter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota5/src/funAnonima.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota5/src/reduce.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaNota5/src/sortedBy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -139,7 +141,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MainKt">
+  <component name="RunManager" selected="Application.ReduceKt">
+    <configuration name="FilterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ListaNota5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FilterKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunAnonimaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ListaNota5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FunAnonimaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="dadosFuncionario" />
       <option name="VM_PARAMETERS" />
@@ -153,53 +181,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediavetorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="hello" />
+    <configuration name="ReduceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ListaNota5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MediavetorKt" />
+      <option name="MAIN_CLASS_NAME" value="ReduceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VetorABKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="hello" />
+    <configuration name="SortedByKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ListaNota5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="VetorABKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VetorFatorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="hello" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="VetorFatorialKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VetorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="hello" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="VetorKt" />
+      <option name="MAIN_CLASS_NAME" value="SortedByKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReduceKt" />
+        <item itemvalue="Application.FilterKt" />
+        <item itemvalue="Application.SortedByKt" />
+        <item itemvalue="Application.FunAnonimaKt" />
         <item itemvalue="Application.MainKt" />
-        <item itemvalue="Application.VetorFatorialKt" />
-        <item itemvalue="Application.MediavetorKt" />
-        <item itemvalue="Application.VetorABKt" />
-        <item itemvalue="Application.VetorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616111213005</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="24/03 Classe POO kot funcionario">
+      <created>1616627386496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616627386496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -321,7 +330,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="17/03 classes/lambdas" />
     <MESSAGE value="18/03 exercicios nota4" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/03 exercicios nota4" />
+    <MESSAGE value="24/03 Classe POO kot funcionario" />
+    <option name="LAST_COMMIT_MESSAGE" value="24/03 Classe POO kot funcionario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -365,6 +375,21 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/ListaNota5/src/funAnonima.kt</url>
+          <line>5</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/ListaNota5/src/reduce.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
